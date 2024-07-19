@@ -226,7 +226,7 @@
                         android:text="cos"
                         android:textAllCaps="false"
                         android:textColor="@color/lime"
-                        android:textSize="30sp">
+                        android:textSize="24sp">
 
                     </Button>
 
@@ -239,7 +239,7 @@
                         android:text="tan"
                         android:textAllCaps="false"
                         android:textColor="@color/lime"
-                        android:textSize="30sp">
+                        android:textSize="24sp">
 
                     </Button>
 
